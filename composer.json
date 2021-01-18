@@ -17,7 +17,7 @@
   },
   "require": {
     "php": ">=7.2.0",
-    "bayfrontmedia/bones": "1.*",
+    "bayfrontmedia/bones": "1.1.*",
     "league/flysystem-cached-adapter": "^1.1.0"
   },
   "scripts": {
